@@ -56,7 +56,7 @@ sudo dmesg | tail
 [11377.114057] mai_practice5: device initialized
 [11377.121374] mai_practice5: module loaded
 ```
-Модуль загружен, устройство зарегистрировано
+Модуль загружен, устройство зарегистрировано. 
 Проверка появления интерфейса:
 ```
 ip link show
