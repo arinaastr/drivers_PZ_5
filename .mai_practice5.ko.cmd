@@ -1,0 +1,1 @@
+savedcmd_/home/drivers/mai_practice5/mai_practice5.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/drivers/mai_practice5/mai_practice5.ko /home/drivers/mai_practice5/mai_practice5.o /home/drivers/mai_practice5/mai_practice5.mod.o

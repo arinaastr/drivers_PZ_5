@@ -1,0 +1,1 @@
+savedcmd_/home/drivers/mai_practice5/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/drivers/mai_practice5/Module.symvers -T /home/drivers/mai_practice5/modules.order -i Module.symvers -e 

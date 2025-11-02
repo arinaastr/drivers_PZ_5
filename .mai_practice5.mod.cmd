@@ -1,0 +1,1 @@
+savedcmd_/home/drivers/mai_practice5/mai_practice5.mod := printf '%s\n'   mai_practice5.o | awk '!x[$$0]++ { print("/home/drivers/mai_practice5/"$$0) }' > /home/drivers/mai_practice5/mai_practice5.mod
